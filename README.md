@@ -1,4 +1,4 @@
-#teensy-space-invaders
+# teensy-space-invaders
 
 Created for QUT course CAB202, Semester 1, 2019.
 
