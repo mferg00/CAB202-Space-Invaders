@@ -1,3 +1,5 @@
 # CAB202-Space-Invaders
 
-Created for use on a pre-made teensy breakout board, for QUT course CAB202
+Created for QUT course CAB202, Semester 1, 2019.
+
+For use on a teensy breakout-board.
